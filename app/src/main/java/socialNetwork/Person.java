@@ -1,4 +1,4 @@
-package poop;
+package socialNetwork;
 
 public class Person implements Visitable{
 
